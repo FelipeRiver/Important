@@ -4,11 +4,12 @@ body{
 aside{
     float: left;
     text-align: justify;
-    width: 300px;
+    width: 670px;
     font-family: Tahoma;
     font-size: 27px;
     margin: 20px;
-    margin-top: 70px;
+    margin-top: 60px;
+    margin-left: 50px;
     margin-bottom: 20px;
      border: solid 2px;
      border-radius: 5px;
@@ -31,6 +32,9 @@ figcaption{
     text-align: center;
     margin-top: 10px;
 }
+img{
+    margin-left: 135px;
+}
 .lol{
      margin-bottom: 20px;
      border: solid 2px;
@@ -48,8 +52,9 @@ h2{
     font-size: 18px;
 }
 footer{
-        margin-top: 55px;
+        margin-top: 147px;
         text-align: center;
+        
      border: solid 2px;
      padding: 5px;
      padding: 20px;
